@@ -1,0 +1,7 @@
+This is the Mathematica notebook and literate python code I wrote for calculating the probability that a cosmic ray will hit a subarray, for a problem Roland Vanderspek posed.  I also threw in a small latexit script for making small pdfs of LaTeX expression, which I used in inkscape to make diagrams of some geometry I did here.
+
+I used SciPy/NumPy for performing calculations in the python code.  I coded in literate Python, which means that I programmed in LaTeX and python together using Pweave.  Pweave can be found here:
+
+http://mpastell.com/pweave/
+
+But you can install it on most modern Linux machines using 'sudo easy_install Pweave'
